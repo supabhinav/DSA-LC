@@ -1,16 +1,22 @@
 class Solution {
 public:
     int dominantIndex(vector<int>& nums) {
-        int maxIndex = max_element(nums.begin(), nums.end()) - nums.begin();
-        
-        int largest = nums[maxIndex];
-        
-        for (int i = 0; i < nums.size(); i++) {
-            if (i != maxIndex && largest < 2 * nums[i]) {
-                return -1;
+        int max = -1;
+        int smax = -1;
+        int maxidx = 0;
+        for(int i =0;i<nums.size();i++){
+            if(max<nums[i]){
+                smax = max;
+                max =  nums[i];
+                maxidx = i;
+            }
+            else if(smax < nums[i]){
+                smax = nums[i];
             }
         }
-        
-        return maxIndex;
+        if(smax*2 <= max){
+            return maxidx;
+        }
+        else return -1;
     }
 };
