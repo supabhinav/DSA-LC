@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/supabhinav/DSA-LC/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/supabhinav/DSA-LC/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0724-find-pivot-index](https://github.com/supabhinav/DSA-LC/tree/main/0724-find-pivot-index/) | Easy |
 | [1046-last-stone-weight](https://github.com/supabhinav/DSA-LC/tree/main/1046-last-stone-weight/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1046-last-stone-weight](https://github.com/supabhinav/DSA-LC/tree/main/1046-last-stone-weight/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/supabhinav/DSA-LC/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
