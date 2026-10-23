@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/supabhinav/DSA-LC/tree/master/0128-longest-consecutive-sequence) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/supabhinav/DSA-LC/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,4 +82,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/supabhinav/DSA-LC/tree/main/0058-length-of-last-word/) | Easy |
 | [0443-string-compression](https://github.com/supabhinav/DSA-LC/tree/master/0443-string-compression) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/supabhinav/DSA-LC/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/supabhinav/DSA-LC/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 <!---LeetCode Topics End-->
