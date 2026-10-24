@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/supabhinav/DSA-LC/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/supabhinav/DSA-LC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/supabhinav/DSA-LC/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/supabhinav/DSA-LC/tree/main/0394-decode-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,10 +82,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/supabhinav/DSA-LC/tree/main/0058-length-of-last-word/) | Easy |
+| [0394-decode-string](https://github.com/supabhinav/DSA-LC/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/supabhinav/DSA-LC/tree/master/0443-string-compression) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/supabhinav/DSA-LC/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/supabhinav/DSA-LC/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/supabhinav/DSA-LC/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
