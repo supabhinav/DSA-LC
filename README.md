@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/supabhinav/DSA-LC/tree/main/0058-length-of-last-word/) | Easy |
 | [0394-decode-string](https://github.com/supabhinav/DSA-LC/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/supabhinav/DSA-LC/tree/master/0443-string-compression) |
+| [1446-consecutive-characters](https://github.com/supabhinav/DSA-LC/tree/main/1446-consecutive-characters/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/supabhinav/DSA-LC/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
