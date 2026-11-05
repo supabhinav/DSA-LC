@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/supabhinav/DSA-LC/tree/main/0724-find-pivot-index/) | Easy |
 | [0881-boats-to-save-people](https://github.com/supabhinav/DSA-LC/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/supabhinav/DSA-LC/tree/main/1046-last-stone-weight/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/supabhinav/DSA-LC/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/supabhinav/DSA-LC/tree/main/0020-valid-parentheses/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/supabhinav/DSA-LC/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
