@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/supabhinav/DSA-LC/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/supabhinav/DSA-LC/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0724-find-pivot-index](https://github.com/supabhinav/DSA-LC/tree/main/0724-find-pivot-index/) | Easy |
+| [0867-transpose-matrix](https://github.com/supabhinav/DSA-LC/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/supabhinav/DSA-LC/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/supabhinav/DSA-LC/tree/main/1046-last-stone-weight/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/supabhinav/DSA-LC/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -104,5 +105,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/supabhinav/DSA-LC/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/supabhinav/DSA-LC/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/supabhinav/DSA-LC/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
